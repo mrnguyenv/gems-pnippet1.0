@@ -1,0 +1,23 @@
+{
+  "name": "gems-pnippet1.0",
+  "version": "1.0.0",
+  "description": "This could include features like tagging, searching, and integration with popular code editors.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrnguyenv/gems-pnippet1.0.git"
+  },
+  "keywords": [
+    "teathebest",
+    "codebnippet",
+    "mamanger"
+  ],
+  "author": "whalepiz",
+  "license": "MIT",
+  "dependencies": {
+    "whalepiz-bnippet": "1.0.3"
+  }
+}
